@@ -37,14 +37,13 @@ solana program deploy dist/program/helloworld.so
 - **Program ID:** `BMG1DEhdfd5148A5tiN3ZVuaBTTmro7U6UiN1rmsFBuG`  
 - **Explorer Link (Devnet):**  
   [Click to view](https://explorer.solana.com/address/BMG1DEhdfd5148A5tiN3ZVuaBTTmro7U6UiN1rmsFBuG?cluster=devnet)
-
 ---
 
 
 ## 🧪 Screenshots
 
 ### ✅ Solana CLI Version
-![solana version](./screenshots/solana-version.png)
+![solana version](./screenshots/solana-version..png)
 
 ### ✅ Wallet Address & Airdrop
 ![wallet](./screenshots/wallet-airdrop.png)
