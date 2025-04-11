@@ -1,0 +1,17 @@
+# Rust build files
+/target
+**/dist/
+**/*.so
+
+# Node.js dependencies
+node_modules/
+
+# Wallet files
+*.json
+
+# VS Code settings
+.vscode/
+
+# Logs and temp
+*.log
+.DS_Store
