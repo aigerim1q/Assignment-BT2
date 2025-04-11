@@ -67,6 +67,10 @@ solana program deploy dist/program/helloworld.so
 ![explorer](./screenshots/explorer-devnet.png)
 
 ---
+## 📜 LICENSE
+
+License inherited from Solana’s official Hello World repo:
+🔗 https://github.com/solana-labs/example-helloworld/blob/master/LICENSE
 
 ---
 
