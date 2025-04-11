@@ -1,7 +1,16 @@
-## Solana Hello World Smart Contract
-This project demonstrates the basic deployment of a Rust-based smart contract (Hello World) on the **Solana Devnet** using the Solana CLI.
+# Solana Hello World Smart Contract
 
+This project demonstrates the basic deployment of a Rust-based smart contract (Hello World) on the **Solana Devnet** using the Solana CLI and Rust toolchain.
 
+---
+## 📦 Features
+
+-  Written in **Rust** and compiled to **BPF**
+-  Deployed to **Solana Devnet**
+-  Includes screenshots of each key step
+- Tested with Solana CLI version 1.17+
+
+---
 ## ⚙️ Installation Steps
 
 # 1. Installed Solana CLI manually from GitHub release
