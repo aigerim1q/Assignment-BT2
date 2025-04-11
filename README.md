@@ -12,31 +12,34 @@ This project demonstrates the basic deployment of a Rust-based smart contract (H
 
 ---
 ## ⚙️ Installation Steps
-
-# 1. Installed Solana CLI manually from GitHub release
+```bash
+1. Installed Solana CLI manually from GitHub release
 solana --version
 
-# 2. Set up Devnet and created a wallet
+2. Set up Devnet and created a walle
 solana config set --url https://api.devnet.solana.com
 solana-keygen new
 solana airdrop 2
 
-# 3. Cloned the Hello World example project
+3. Cloned the Hello World example project
 git clone https://github.com/solana-labs/example-helloworld.git
 cd example-helloworld
 
-# 4. Installed Rust and added BPF component
+
+4. Installed Rust and added BPF component
 rustup install stable
 rustup component add rust-src
 
-# 5. Installed necessary npm dependencies
+
+5. Installed necessary npm dependencies
 npm install
 
-# 6. Built the smart contract
+6. Built the smart contract
 npm run build:program-rust
 
-# 7. Deployed the program to Devnet
+7. Deployed the program to Devnet
 solana program deploy dist/program/helloworld.so
+```
 
 ---
 
@@ -47,6 +50,7 @@ solana program deploy dist/program/helloworld.so
 - **Explorer Link (Devnet):**  
   [Click to view](https://explorer.solana.com/address/BMG1DEhdfd5148A5tiN3ZVuaBTTmro7U6UiN1rmsFBuG?cluster=devnet)
 ---
+
 
 
 ## 🧪 Screenshots
